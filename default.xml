@@ -5,7 +5,8 @@
            fetch="https://android.googlesource.com/" />
 
   <remote  name="github"
-           fetch="ssh://git@github.com" />
+           fetch="ssh://git@github.com"
+           review="review.cyanogenmod.com" />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
