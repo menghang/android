@@ -317,7 +317,6 @@
   <project path="prebuilts/tools" name="CyanogenMod/android_prebuilts_tools" />
   <project path="system/bluetooth" name="deathscythe/android_system_bluetooth" />
   <project path="system/bluetooth2" name="christiantroy/android_system_bluetooth" revision="cm-jb" />
-  <project path="system/bluetooth3" name="Quarx2k/android_system_bluetooth" revision="jb_allwinner" />
   <project path="system/core" name="deathscythe/android_system_core" />
   <project path="system/core2" name="christiantroy/android_system_core" revision="cm-jb" />
   <project path="system/core3" name="Quarx2k/android_system_core" revision="jb_allwinner" />
