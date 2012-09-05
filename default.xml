@@ -189,10 +189,10 @@
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" />
   <project path="external/zxing" name="CyanogenMod/android_external_zxing" />
   <project path="frameworks/av" name="deathscythe/android_frameworks_av" />
-  <project path="frameworks/av2" name="christiantroy/android_frameworks_av" revision="cm-jb" />
+  <project path="frameworks/av2" name="christiantroy/android_frameworks_av" revision="jellybean-cm" />
   <project path="frameworks/av3" name="Quarx2k/android_frameworks_av" revision="jb_allwinner" />
   <project path="frameworks/base" name="deathscythe/android_frameworks_base" />
-  <project path="frameworks/base2" name="christiantroy/android_frameworks_base" revision="cm-jb" />
+  <project path="frameworks/base2" name="christiantroy/android_frameworks_base" revision="jellybean-cm" />
   <project path="frameworks/base3" name="Quarx2k/android_frameworks_base" revision="jb_allwinner" />
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" />
   <project path="frameworks/compile/linkloader" name="CyanogenMod/android_frameworks_compile_linkloader" />
@@ -202,7 +202,7 @@
   <project path="frameworks/mff" name="CyanogenMod/android_frameworks_mff" />
   <project path="frameworks/ml" name="CyanogenMod/android_frameworks_ml" />
   <project path="frameworks/native" name="deathscythe/android_frameworks_native" />
-  <project path="frameworks/native2" name="christiantroy/android_frameworks_native" revision="cm-jb" />
+  <project path="frameworks/native2" name="christiantroy/android_frameworks_native" revision="jellybean-cm" />
   <project path="frameworks/native3" name="Quarx2k/android_frameworks_native" revision="jb_allwinner" />
   <project path="frameworks/opt/calendar" name="CyanogenMod/android_frameworks_opt_calendar" />
   <project path="frameworks/opt/emoji" name="CyanogenMod/android_frameworks_opt_emoji" />
@@ -218,7 +218,7 @@
   <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" />
   <project path="hardware/invensense" name="CyanogenMod/android_hardware_invensense" />
   <project path="hardware/libhardware" name="deathscythe/android_hardware_libhardware" />
-  <project path="hardware/libhardware2" name="christiantroy/android_hardware_libhardware" revision="cm-jb" />
+  <project path="hardware/libhardware2" name="christiantroy/android_hardware_libhardware" revision="jellybean-cm" />
   <project path="hardware/libhardware3" name="Quarx2k/android_hardware_libhardware" revision="jb_allwinner" />
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" />
   <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" />
@@ -316,9 +316,9 @@
   <project path="prebuilts/sdk" name="CyanogenMod/android_prebuilts_sdk" />
   <project path="prebuilts/tools" name="CyanogenMod/android_prebuilts_tools" />
   <project path="system/bluetooth" name="deathscythe/android_system_bluetooth" />
-  <project path="system/bluetooth2" name="christiantroy/android_system_bluetooth" revision="cm-jb" />
+  <project path="system/bluetooth2" name="christiantroy/android_system_bluetooth" revision="jellybean-cm" />
   <project path="system/core" name="deathscythe/android_system_core" />
-  <project path="system/core2" name="christiantroy/android_system_core" revision="cm-jb" />
+  <project path="system/core2" name="christiantroy/android_system_core" revision="jellybean-cm" />
   <project path="system/core3" name="Quarx2k/android_system_core" revision="jb_allwinner" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" />
   <project path="system/media" name="CyanogenMod/android_system_media" />
@@ -326,7 +326,7 @@
   <project path="system/security" name="CyanogenMod/android_system_security" />
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="deathscythe/android_system_vold" />
-  <project path="system/vold2" name="christiantroy/android_system_vold" revision="cm-jb" />
+  <project path="system/vold2" name="christiantroy/android_system_vold" revision="jellybean-cm" />
   <project path="system/vold3" name="Quarx2k/android_system_vold" />
   <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
@@ -338,7 +338,7 @@
   <project path="hardware/realtek" name="christiantroy/android_hardware_realtek" revision="master" />
   <project path="device/allwinner/p85" name="deathscythe/android_device_allwinner_p85" revision="ics" />
   <project path="device/allwinner/a10" name="Quarx2k/android_device_a10" />
-  <project path="device/softwinner/907" name="christiantroy/android_device_907" revision="cm-jb" />
+  <project path="device/softwinner/907" name="christiantroy/android_device_907" revision="jellybean-cm" />
   <project path="external/cedarx" name="Quarx2k/android_external_cedarx" />
 
   <project path="kernel" name="Quarx2k/linux-allwinner" revision="allwinner-v3.0-android-v2" />
