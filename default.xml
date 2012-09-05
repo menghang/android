@@ -309,6 +309,7 @@
   <project path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" name="CyanogenMod/android_prebuilts_gcc_linux-x86_x86_i686-linux-android-4.6" />
   <project path="prebuilts/misc" name="CyanogenMod/android_prebuilts_misc" />
   <project path="prebuilts/ndk" name="CyanogenMod/android_prebuilts_ndk" />
+  <project path="prebuilts/qemu-kernel" name="CyanogenMod/android_prebuilts_qemu-kernel" />
   <project path="prebuilts/sdk" name="CyanogenMod/android_prebuilts_sdk" />
   <project path="prebuilts/tools" name="CyanogenMod/android_prebuilts_tools" />
   <project path="system/bluetooth" name="deathscythe/android_system_bluetooth" />
