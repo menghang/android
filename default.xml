@@ -326,8 +326,8 @@
   <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" revision="gingerbread" />
   <project path="hardware/realtek" name="christiantroy/android_hardware_realtek" revision="jellybean-cm" />
  <project path="device/allwinner/p85" name="deathscythe/android_device_allwinner_p85" />
- <!--<project path="device/allwinner/a10" name="Quarx2k/android_device_a10" />-->
- <!--<project path="device/softwinner/907" name="christiantroy/android_device_907" revision="jellybean-cm" />-->
+ <project path="device/allwinner/a10" name="Quarx2k/android_device_a10" />
+ <project path="device/softwinner/907" name="christiantroy/android_device_907" revision="jellybean-cm" />
 
   <project path="kernel" name="deathscythe/linux-allwinner" revision="allwinner-v3.0-android-v2" />
 
