@@ -189,7 +189,9 @@
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" />
   <project path="external/zxing" name="CyanogenMod/android_external_zxing" />
       <project path="frameworks/av" name="deathscythe/android_frameworks_av" />
+      <project path="frameworks/av3" name="Quarx2k/android_frameworks_av" revision="jb_allwinner" />
       <project path="frameworks/base" name="deathscythe/android_frameworks_base" />
+      <project path="frameworks/base3" name="Quarx2k/android_frameworks_base" revision="jb_allwinner" />
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" />
   <project path="frameworks/compile/linkloader" name="CyanogenMod/android_frameworks_compile_linkloader" />
   <project path="frameworks/compile/mclinker" name="CyanogenMod/android_frameworks_compile_mclinker" />
@@ -198,6 +200,7 @@
   <project path="frameworks/mff" name="CyanogenMod/android_frameworks_mff" />
   <project path="frameworks/ml" name="CyanogenMod/android_frameworks_ml" />
       <project path="frameworks/native" name="deathscythe/android_frameworks_native" />
+      <project path="frameworks/native3" name="Quarx2k/android_frameworks_native" revision="jb_allwinner" />
   <project path="frameworks/opt/calendar" name="CyanogenMod/android_frameworks_opt_calendar" />
   <project path="frameworks/opt/emoji" name="CyanogenMod/android_frameworks_opt_emoji" />
   <project path="frameworks/opt/inputmethodcommon" name="CyanogenMod/android_frameworks_opt_inputmethodcommon" />
@@ -326,8 +329,8 @@
   <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" revision="gingerbread" />
   <project path="hardware/realtek" name="christiantroy/android_hardware_realtek" revision="jellybean-cm" />
  <project path="device/allwinner/p85" name="deathscythe/android_device_allwinner_p85" />
-  <project path="other/a10" name="Quarx2k/android_device_a10" />
-  <project path="other/907" name="christiantroy/android_device_907" revision="jellybean-cm" />
+  <project path="../other/a10" name="Quarx2k/android_device_a10" />
+  <project path="../other/907" name="christiantroy/android_device_907" revision="jellybean-cm" />
 
   <project path="kernel" name="deathscythe/linux-allwinner" revision="allwinner-v3.0-android-v2" />
 
