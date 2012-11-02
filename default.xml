@@ -336,7 +336,7 @@
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
 
-  <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" revision="gingerbread" />
+  <!--<project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" revision="gingerbread" />-->
   <project path="hardware/realtek" name="christiantroy/android_hardware_realtek" revision="jellybean-cm" />
   <project path="device/allwinner/p85" name="deathscythe/android_device_allwinner_p85" />
 
