@@ -210,7 +210,7 @@
   <project path="gdk" name="platform/gdk" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="hardware/broadcom/wlan" name="AOKP/android_hardware_broadcom_wlan" remote="aokp" revision="jb" />
   <project path="hardware/invensense" name="platform/hardware/invensense" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
-      <project path="hardware/libhardware" name="deathscythe/android_hardware_libhardware" remote="git" revision="aokp-jb" />
+      <project path="hardware/libhardware" name="deathscythe/android_hardware_libhardware" remote="git" revision="jellybean" />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="cm" revision="jellybean" />
   <project path="hardware/msm7k" name="android_hardware_msm7k" remote="cm" revision="jellybean" />
   <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" remote="cm" revision="jellybean" />
