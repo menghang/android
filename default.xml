@@ -331,5 +331,7 @@
 
   <project path="hardware/realtek" name="deathscythe/android_hardware_realtek" remote="git" revision="jellybean-cm" />
   <project path="device/allwinner/p85" name="deathscythe/android_device_allwinner_p85" remote="git" revision="aokp-jb" />
+  <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" remote="git" revision="jellybean" />
+  <project path="packages/apps/Trebuchet" name="CyanogenMod/android_packages_apps_Trebuchet" remote="git" revision="jellybean" />
 
 </manifest>
