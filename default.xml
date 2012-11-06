@@ -330,5 +330,6 @@
   <project path="vendor/tmobile/products/themes" name="android_vendor_tmobile_products_themes" remote="cm" revision="jellybean" />
 
   <project path="hardware/realtek" name="deathscythe/android_hardware_realtek" remote="git" revision="jellybean-cm" />
+  <project path="device/allwinner/p85" name="deathscythe/android_device_allwinner_p85" remote="git" revision="aokp-jb" />
 
 </manifest>
