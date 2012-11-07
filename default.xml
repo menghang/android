@@ -340,6 +340,6 @@
   <project path="hardware/realtek" name="christiantroy/android_hardware_realtek" revision="jellybean-cm" />
   <project path="device/allwinner/p85" name="deathscythe/android_device_allwinner_p85" />
 
-  <project path="kernel" name="allwinner-dev-team/linux-allwinner" revision="allwinner-3.0" />
+  <project path="kernel" name="linux-sunxi/linux-sunxi" revision="sunxi-3.0" />
 
 </manifest>
