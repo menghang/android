@@ -188,8 +188,8 @@
   <project path="external/yaffs2" name="android_external_yaffs2" remote="cm" revision="jellybean" />
   <project path="external/zlib" name="android_external_zlib" remote="cm" revision="jellybean" />
   <project path="external/zxing" name="platform/external/zxing" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
-      <project path="frameworks/av" name="deathscythe/android_frameworks_av" remote="git" revision="aokp-jb" />
-      <project path="frameworks/base" name="deathscythe/android_frameworks_base" remote="git" revision="aokp-jb" />
+      <project path="frameworks/av" name="menghang/android_frameworks_av" remote="git" revision="aokp-jb" />
+      <project path="frameworks/base" name="menghang/android_frameworks_base" remote="git" revision="aokp-jb" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
@@ -197,7 +197,7 @@
   <project path="frameworks/ex" name="platform/frameworks/ex" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="frameworks/mff" name="platform/frameworks/mff" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="frameworks/ml" name="platform/frameworks/ml" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
-      <project path="frameworks/native" name="deathscythe/android_frameworks_native" remote="git" revision="aokp-jb" />
+      <project path="frameworks/native" name="menghang/android_frameworks_native" remote="git" revision="aokp-jb" />
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="frameworks/opt/inputmethodcommon" name="platform/frameworks/opt/inputmethodcommon" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
@@ -210,7 +210,7 @@
   <project path="gdk" name="platform/gdk" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="hardware/broadcom/wlan" name="AOKP/android_hardware_broadcom_wlan" remote="aokp" revision="jb" />
   <project path="hardware/invensense" name="platform/hardware/invensense" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
-      <project path="hardware/libhardware" name="deathscythe/android_hardware_libhardware" remote="git" revision="jellybean" />
+      <project path="hardware/libhardware" name="menghang/android_hardware_libhardware" remote="git" revision="jellybean" />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="cm" revision="jellybean" />
   <project path="hardware/msm7k" name="android_hardware_msm7k" remote="cm" revision="jellybean" />
   <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" remote="cm" revision="jellybean" />
@@ -254,7 +254,7 @@
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="packages/apps/ROMControl" name="AOKP/packages_apps_ROMControl" remote="aokp" revision="jb" />
-      <project path="packages/apps/Settings" name="deathscythe/android_packages_apps_Settings" remote="git" revision="aokp-jb" />
+      <project path="packages/apps/Settings" name="menghang/android_packages_apps_Settings" remote="git" revision="aokp-jb" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
@@ -309,7 +309,7 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="sdk" name="AOKP/android_sdk" remote="aokp" revision="jb" />
   <project path="system/bluetooth" name="AOKP/system_bluetooth" remote="aokp" revision="jb" />
-      <project path="system/core" name="deathscythe/android_system_core" remote="git" revision="aokp-jb" />
+      <project path="system/core" name="menghang/android_system_core" remote="git" revision="aokp-jb" />
   <project path="system/extras" name="AOKP/system_extras" remote="aokp" revision="jb" />
   <project path="system/media" name="platform/system/media" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="system/netd" name="android_system_netd" remote="cm" revision="jellybean" />
@@ -322,15 +322,15 @@
   <project path="system/su" name="android_system_su" remote="cm" revision="jellybean" />
   <project path="packages/wallpapers/SwagPapers" name="AOKP/packages_wallpapers_SwagPapers_v2" remote="aokp" revision="jb" />
 
-      <project path="platform_manifest" name="deathscythe/android" remote="git" revision="aokp-jb" />
+      <project path="platform_manifest" name="menghang/android" remote="git" revision="aokp-jb" />
 
   <project path="vendor/tmobile/apps/ThemeChooser" name="AOKP/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="aokp" revision="jb" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="android_vendor_tmobile_libs_com.tmobile.themes" remote="cm" revision="jellybean" />
   <project path="vendor/tmobile/providers/ThemeManager" name="android_vendor_tmobile_providers_ThemeManager" remote="cm" revision="jellybean" />
   <project path="vendor/tmobile/products/themes" name="android_vendor_tmobile_products_themes" remote="cm" revision="jellybean" />
 
-  <project path="hardware/realtek" name="deathscythe/android_hardware_realtek" remote="git" revision="jellybean-cm" />
-  <project path="device/allwinner/p85" name="deathscythe/android_device_allwinner_p85" remote="git" revision="aokp-jb" />
+  <project path="hardware/realtek" name="menghang/android_hardware_realtek" remote="git" revision="jellybean-cm" />
+  <project path="device/allwinner/p85" name="menghang/android_device_allwinner_p85" remote="git" revision="aokp-jb" />
   <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" remote="git" revision="jellybean" />
   <project path="packages/apps/Trebuchet" name="CyanogenMod/android_packages_apps_Trebuchet" remote="git" revision="jellybean" />
 
