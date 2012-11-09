@@ -338,6 +338,6 @@
   <project path="hardware/realtek" name="menghang/android_hardware_realtek" revision="cm-jb" />
   <project path="device/allwinner/p85" name="menghang/android_device_allwinner_p85" revision="cm-jb" />
 
-  <project path="kernel" name="allwinner-dev-team/linux-allwinner" revision="allwinner-3.0" />
+  <project path="kernel" name="menghang/linux-sunxi" revision="sunxi-3.0" />
 
 </manifest>
